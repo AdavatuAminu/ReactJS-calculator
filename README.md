@@ -1,7 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive calculator application built with ReactJS. This app supports basic arithmetic operations, dynamic resizing for larger inputs, and intuitive color-coded button functionality. It also handles keyboard input for seamless usage.
 
+Features
+Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
+Error Handling: Displays clear error messages for invalid inputs (e.g., division by zero).
+Dynamic Display: Automatically adjusts font size for longer input or output values.
+Keyboard Support: Allows input through keyboard keys.
+Formatted Results: Displays results with underscores for better readability (e.g., 100_000_000).
+
+LINK to the cloud hosting: "https://reactjs-calculator-v25q.onrender.com"
 ## Available Scripts
 
 In the project directory, you can run:
